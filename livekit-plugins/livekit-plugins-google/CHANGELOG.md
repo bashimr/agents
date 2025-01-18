@@ -1,5 +1,11 @@
 # livekit-plugins-google
 
+## 0.9.2
+
+### Patch Changes
+
+- fix: address breaking change from google-genai >= 0.3.0 - [#1383](https://github.com/livekit/agents/pull/1383) ([@jayeshp19](https://github.com/jayeshp19))
+
 ## 0.9.1
 
 ### Patch Changes
